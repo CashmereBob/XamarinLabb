@@ -17,6 +17,8 @@ Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		XamarinLabb\XamarinLabb\XamarinLabb.projitems*{a3b76a5e-c2d3-4a95-98d1-b101ba626708}*SharedItemsImports = 13
 		XamarinLabb\XamarinLabb\XamarinLabb.projitems*{a9a38720-aab1-493e-be14-06d0e10ff542}*SharedItemsImports = 4
+		XamarinLabb\XamarinLabb\XamarinLabb.projitems*{ab6ff724-4884-4e6d-b352-b4f4f7001d55}*SharedItemsImports = 4
+		XamarinLabb\XamarinLabb\XamarinLabb.projitems*{b61b0e55-9bfc-4c8a-be64-1de76a7eeee2}*SharedItemsImports = 4
 		XamarinLabb\XamarinLabb\XamarinLabb.projitems*{fa617859-3aa7-4505-bc6a-fe90a327d5d0}*SharedItemsImports = 4
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
