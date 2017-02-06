@@ -25,6 +25,13 @@ namespace TestPCL
 
             return person;
         }
+        public void AddPerson(Person newPerson)
+        {
+            if (newPerson != null)
+            {
+                Persons.Add(newPerson);
+            }
+        }
     }
 }
 
