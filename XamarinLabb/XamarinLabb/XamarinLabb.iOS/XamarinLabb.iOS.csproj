@@ -113,6 +113,7 @@
     <BundleResource Include="Resources\Icon-Small%402x.png" />
     <BundleResource Include="Resources\Icon-Small%403x.png" />
     <InterfaceDefinition Include="Resources\LaunchScreen.storyboard" />
+    <InterfaceDefinition Include="Main.storyboard" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
